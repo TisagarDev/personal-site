@@ -1,0 +1,76 @@
+body {margin: 0px; text-align: center; font-family: 'Merriweather', serif;}
+
+h1 {font-size: 5.625rem; margin-top: 30px; padding-top: 50px; margin-bottom: 40px; font-family: 'Sacramento', cursive; color: #66BFBF;}
+
+.top-description {font-weight: normal;}
+
+.top-container {position: relative; background-color: #CDF0EA; padding-top: 50px;}
+
+.mountain {position: relative; margin-right: 160px;}
+
+.bottom-cloud {position: relative; margin-right:0px; margin-bottom: 300px; margin-right: 60px;}
+
+.top-cloud {position: absolute; margin-left: 300px;}
+
+h2 {position: relative; margin-top: 0px; color: #66BFBF;} 
+
+h3 {color: #11999E;}
+
+p {font-family: 'Montserrat', sans-serif; font-size: 1.2rem; color: #40514E;}
+
+a {color: #11999E; font-weight: bold;}
+
+.skill-row {width: 50%; margin: 100px auto auto auto; line-height: 2; text-align: left;}
+
+.profile-img {width: 7%;}
+
+.book {float: left; margin-right: 20px;}
+
+.crypto {float: right; margin-left: 20px;}
+
+.skill-crypto {margin-left: 715px;}
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #CCCCCC;
+  border-width: 5px;
+  width: 3%;
+  margin: 70px auto 70px auto;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .bottom-container {background-color: #66BFBF; padding: 50px; margin-top: 70px;}
+
+  .footer-link {margin-left: 10px; margin-right: 10px;}
+
+  .final-autor {margin-top: 40px;}
+
+  .parraf {margin-bottom: 70px;}
